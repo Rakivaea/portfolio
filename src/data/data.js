@@ -4,9 +4,6 @@ import MailIcon from "@mui/icons-material/Mail";
 import ArticleIcon from "@mui/icons-material/Article";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
-// Resume
-import resume from "../assets/files/RakivaeaKvitting_Resume.pdf";
-
 // Main Content - Project Images
 import twitterTrendsDesktop from "../assets/images/TwitterTrends-Desktop.png";
 import cryptoTrackerDesktop from "../assets/images/CryptoTracker-Desktop.png";
@@ -15,7 +12,7 @@ import portfolioWebsiteDesktop from "../assets/images/PortfolioWebsite-Desktop.p
 export const listContent = [
   {
     text: "Resume",
-    link: resume,
+    link: "./RakivaeaKvitting_Resume.pdf",
     icon: ArticleIcon,
   },
   {
