@@ -64,7 +64,7 @@ export const projectData = [
       "JavaScript",
       "CSS",
       "Express",
-      "Crypto API",
+      "CoinCap API",
       "ChartJS",
     ],
     link: "https://crypto-tracker-rk.netlify.app/",

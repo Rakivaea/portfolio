@@ -57,7 +57,7 @@ export default function Header() {
           color: "white",
           paddingTop: "2em",
           paddingBottom: "2em",
-          height: "50vh",
+          height: { md: "50vh" },
           position: "relative",
         }}
       >
@@ -67,7 +67,7 @@ export default function Header() {
           </Typography>
 
           <Typography variant="h2" sx={{ fontSize: 27, fontWeight: 400 }}>
-            Engineer focusing on web development using React and Node/Expresss
+            Engineer focusing on web development using React and Node/Express
           </Typography>
         </Stack>
         <List
