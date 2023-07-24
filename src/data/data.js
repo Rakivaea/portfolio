@@ -90,5 +90,5 @@ export const experienceData = [
   "Python",
   "React",
   "Node/Express",
-  "C#",
+  "SQL",
 ];

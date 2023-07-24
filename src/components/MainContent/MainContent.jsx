@@ -77,7 +77,7 @@ export default function MainContent() {
                 marginBottom: 1,
               }}
             >
-              Currently, I'm an Engineer working at Spectronix, where I help
+              Previously worked as an Engineer at Spectronix, where I helped to
               deploy and develop progressive software/hardware. I graduated with
               a BS in Computer Science in 2020.
             </Typography>
