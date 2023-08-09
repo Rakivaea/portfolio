@@ -37,7 +37,7 @@ export const projectData = [
   {
     title: "Twitter Trends",
     description:
-      "Press any point on the Google Map, and get the trending topics around that area via the Twitter API.",
+      "Press any point on the Google Map, and get the trending topics around that area via the Twitter API(deprecated).",
     imageDesktop: twitterTrendsDesktop,
     alt: "Image of Twitter Trends website",
     tags: [
@@ -49,7 +49,6 @@ export const projectData = [
       "Google Maps API",
       "Twitter API",
     ],
-    link: "https://trending-world-tweets.netlify.app/",
     repo: "https://github.com/Rakivaea/trending-tweets-frontend",
   },
   {
